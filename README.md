@@ -14,7 +14,7 @@
 
 ### Hi there! 👋
 
-I'm Jason, a security researcher and developer with a knack for creating useful tools and exploring new technologies. I enjoy working on diverse projects, including developing advanced password security tools, strengthening cybersecurity measures, and analyzing malware to better understand and address potential threats.
+I'm Jason, a security researcher and developer with a knack for creating useful tools and exploring new technologies. I enjoy working on diverse projects, including web developing, advanced password security tools, strengthening cybersecurity measures, and analyzing malware to better understand and address potential threats.
 When I'm not coding, you can find me traveling or diving into OSINT research.
 
 ---
