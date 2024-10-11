@@ -12,4 +12,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScribeAegis&theme=default&show_icons=true&hide_border=true&layout=compact" alt="ScribeAegis's Top Languages">
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ScribeAegis)](https://github.com/ScribeAegis/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ScribeAegis&row=2&column=3)](https://github.com/ScribeAegis/github-profile-trophy)
