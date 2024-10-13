@@ -19,5 +19,5 @@
 </div>
 
 <div align="center">
-  ![](https://komarev.com/ghpvc/?username=ScribeAegis&color=orange)
+  <img src="https://komarev.com/ghpvc/?username=ScribeAegis&color=orange" alt="Profile Views">
 </div>
