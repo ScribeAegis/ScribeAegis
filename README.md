@@ -1,6 +1,6 @@
-<div align="center">
-  👋 Hi there!
-</div>
+# 👋 Hi there!
+
+I'm **ScribeAegis**, a self-taught developer and researcher.
 
 <div align="center">
   <a href="https://github.com/ScribeAegis">
@@ -25,3 +25,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ScribeAegis&color=orange" alt="Profile Views">
 </div>
+
+---
+
+Feel free to explore my repos, open to collaboration ideas!
