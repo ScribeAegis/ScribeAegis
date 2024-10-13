@@ -1,3 +1,4 @@
+
 <div align="center">
   <a href="https://github.com/ScribeAegis">
     <img src="https://github-readme-stats.vercel.app/api?username=ScribeAegis&theme=default&show_icons=true&hide_border=true&count_private=true" alt="ScribeAegis's GitHub Stats">
@@ -16,4 +17,8 @@
   <a href="https://github.com/ScribeAegis/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ScribeAegis&row=2&column=3" alt="ScribeAegis's Trophies">
   </a>
+</div>
+
+<div align="center">
+  ![](https://komarev.com/ghpvc/?username=ScribeAegis&color=orange)
 </div>
