@@ -18,4 +18,6 @@
   </a>
 </div>
 
-![](https://komarev.com/ghpvc/?username=ScribeAegis&color=orange)
+<div align="center">
+  ![](https://komarev.com/ghpvc/?username=ScribeAegis&color=orange)
+</div>
