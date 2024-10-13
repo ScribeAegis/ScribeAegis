@@ -1,5 +1,5 @@
 <div align="center">
-  👋 Hello there!
+  👋 Hi there!
 </div>
 
 <div align="center">
