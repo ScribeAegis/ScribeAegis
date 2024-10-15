@@ -30,4 +30,7 @@ self-taught developer and researcher
   <img src="https://komarev.com/ghpvc/?username=ScribeAegis&color=orange" alt="Profile Views">
 </div>
 
----
+<div align="center">
+  <a href="https://github.com/ScribeAegis">
+<img src="https://i.postimg.cc/CLrTzB2R/footer.png">  </a>
+</div>
