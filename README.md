@@ -3,8 +3,9 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
 I'm **ScribeAegis**, a self-taught developer and researcher.
-
+</div>
 <div align="center">
   <a href="https://github.com/ScribeAegis">
     <img src="https://github-readme-stats.vercel.app/api?username=ScribeAegis&theme=default&show_icons=true&hide_border=true&count_private=true" alt="ScribeAegis's GitHub Stats">
