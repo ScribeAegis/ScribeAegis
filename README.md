@@ -28,6 +28,6 @@ self-taught developer and researcher
   <img src="https://komarev.com/ghpvc/?username=ScribeAegis&color=orange" alt="Profile Views">
 </div>
 
----
-
+<div align="center">
 Feel free to explore my repos, open to collaboration ideas!
+</div>
