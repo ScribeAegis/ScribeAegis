@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/ScribeAegis">
-<img src="https://i.postimg.cc/6Qc5b53n/githeader.png">  </a>
+<img src="https://i.postimg.cc/d3wKFg0s/header.png">  </a>
 </div>
 <div align="center">
 Self-taught web developer & security researcher.</div>
