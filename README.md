@@ -2,6 +2,7 @@
   <a href="https://github.com/ScribeAegis">
     <img src="https://i.postimg.cc/d3wKFg0s/header.png" alt="Header">
   </a>
+  <h2>9 to 5 in the Field, 5 to 9 at the Keyboard.</h2>
 </div>
 
 ---
@@ -55,7 +56,7 @@
 <div align="center">
   <h3>🚀 Projects</h3>
   <p>- <a href="https://github.com/ScribeAegis/DataHawk">DataHawk</a>: An OSINT web crawler for scraping sensitive information.<br>
-     - <a href="https://github.com/ScribeAegis/CloudRip">CloudRip</a>: Cloudflare resolver and helps discover the real IP addresses of domains by enumerating subdomains.
+     - <a href="https://github.com/ScribeAegis/CloudRip">CloudRip</a>: Cloudflare resolver that helps discover the real IP addresses of domains by enumerating subdomains.
   </p>
 </div>
 
