@@ -2,7 +2,7 @@
   <a href="https://github.com/ScribeAegis">
     <img src="https://i.postimg.cc/d3wKFg0s/header.png" alt="Header">
   </a>
-  <h2>9 to 5 in the Field, 5 to 9 at the Keyboard.</h2>
+  <h2>Web Developer & Security Enthusiast</h2>
 </div>
 
 ---
