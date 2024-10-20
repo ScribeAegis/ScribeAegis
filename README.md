@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3>👋 About Me</h3>
-  <p>- 🔧 Self-taught web developer & security researcher with a passion for open-source.<br>
+  <p>- 🔧 Self-taught web developer & security researcher.<br>
      - 🌱 Currently focusing on developing offensive and defensive tools to enhance cybersecurity.<br>
      - 🌐 Actively learning more about web security and front-end frameworks.<br>
      - 💡 Always learning.<br>
