@@ -2,7 +2,7 @@
   <a href="https://github.com/ScribeAegis">
     <img src="https://i.postimg.cc/d3wKFg0s/header.png" alt="Header">
   </a>
-  <h2>9 to 5 on the Grind, 5 to 9 at the Keyboard</h2>
+  <h2>9 to 5 by day, on the keys by night.</h2>
 </div>
 
 ---
