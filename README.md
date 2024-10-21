@@ -2,13 +2,10 @@
   <a href="https://github.com/ScribeAegis">
     <img src="https://i.postimg.cc/d3wKFg0s/header.png" alt="Header">
   </a>
-  <h2>9 to 5 by day, on the keys by night.</h2>
-</div>
 
----
+  <h1>9 to 5 by day, on the keys by night.</h1>
 
-<div align="center">
-  <h3>Hey there, I'm ScribeAegis! 👋</h3>
+  <h2>Hey there, I'm ScribeAegis! 👋</h2>
   <p>I enjoy building solutions and continuously learning about the latest tech to improve digital security.</p>
 </div>
 
@@ -16,22 +13,13 @@
 
 <div align="center">
   <h3>📝 About Me</h3>
-  <p>- 🔧 Self-taught web developer & security researcher.<br>
-     - 🌱 Developing offensive and defensive cybersecurity tools.<br>
-     - 🌐 Exploring web security and diving deeper into front-end frameworks.<br>
-     - 🪙 Bitcoin enthusiast and blockchain technology.<br>
-     - 💡 Always learning.<br>
-     - 📫 Reach me via <a href="https://github.com/ScribeAegis/ScribeAegis/issues">GitHub Issues</a> or email.
-  </p>
-</div>
-
----
-
-<div align="center">
-  <h3>🚧 What I'm Working On</h3>
-  <p>- 🔍 Developing cybersecurity tools both offensive and defensive.<br>
-     - ☁️ Experimenting with serverless architectures and cloud platform integration.<br>
-     - 🤝 Collaborating with a nonprofit to address a critical public health crisis.<br>
+  <p>
+    - 🔧 Self-taught web developer & security researcher.<br>
+    - 🌱 Developing offensive and defensive cybersecurity tools.<br>
+    - 🌐 Exploring web security and diving deeper into front-end frameworks.<br>
+    - 🪙 Bitcoin enthusiast and blockchain technology.<br>
+    - 💡 Always learning.<br>
+    - 📫 Reach me via <a href="https://github.com/ScribeAegis/ScribeAegis/issues">GitHub Issues</a> or email.
   </p>
 </div>
 
@@ -63,8 +51,6 @@
   </p>
 </div>
 
----
-
 <div align="center">
   <h3>📈 GitHub Stats</h3>
   <a href="https://github.com/ScribeAegis">
@@ -83,29 +69,154 @@
 ---
 
 <div align="center">
-  <h3>🧩 Projects</h3>
-  <p>- <a href="https://github.com/ScribeAegis/DataHawk">DataHawk</a>: An OSINT web crawler for scraping sensitive information.<br>
-     - <a href="https://github.com/ScribeAegis/CloudRip">CloudRip</a>: Cloudflare resolver that helps discover the real IP addresses of domains by enumerating subdomains.
+  <h3>🛠️ My Current Work</h3>
+  <p>
+    I work a 9 to 5 and contribute my spare time to self-learning. I also work with a nonprofit organization fighting against a public health crisis.
+
+While I do not work as a developer in the wild, I freelance and code as a hobby, mostly on my own projects.
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h3>🏆 Achievements</h3>
-  <a href="https://github.com/ScribeAegis/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ScribeAegis&row=2&column=3" alt="ScribeAegis's Trophies">
-  </a>
+  <h3>📝 My Past Work</h3>
+  <p>
+    - Led technical initiatives and oversaw digital infrastructure, including website development and cybersecurity.<br>
+    - Contributed strategic insights while serving on the board of directors for a nonprofit organization.<br>
+    - Engaged in various projects aimed at leveraging technology for positive community impact.
+  </p>
 </div>
 
 ---
 
 <div align="center">
-  <h3>🤩 Fun Facts</h3>
-  <p>- ☕ Iced vanilla lattes are my go-to drink.<br>
-     - 🎧 I enjoy listening to podcasts.<br>
-     - 📚 Always reading up on the latest in tech and cybersecurity.<br>
-     - 📺 I’m a fan of binge-watching Netflix shows.
+  <h3>🎨 My Hobbies</h3>
+  <p>
+    - [Under Construction]
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>🔐 CTF Projects</h3>
+  <p>
+    - [Under Construction]<br>
+    - TryHackMe (*coming soon*)<br>
+    - Hack The Box (*coming soon*)
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>📦 Future Projects</h3>
+  <p>
+    - Crisis Awareness Dashboard.
+A web application designed to provide insights into a significant public health issue. It aggregates data from various reputable sources to visualize trends, statistics, and available resources related to the crisis. The main objective of this project is to educate the public about a pressing health crisis by providing accessible and up-to-date information. It aims to create awareness and encourage proactive measures through informed decision-making and resource accessibility.<br>
+    The main objective of this project is to educate the public about a pressing health crisis by providing accessible and up-to-date information. It aims to create awareness and encourage proactive measures through informed decision-making and resource accessibility.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>💻 My Computer(s)</h3>
+  <p>
+    My current system:<br>
+    - 🖥️ Case: Integrated laptop chassis (Victus by HP)<br>
+    - 📺 Monitor: 15.6-inch FHD (1920 x 1080), WLED, antiglare, narrow bezel, 250 nits<br>
+    - ⌨️ Keyboard: Built-in HP keyboard<br>
+    - 🖱️ Mouse: External Logitech M325<br>
+    - 🎮 Graphics: NVIDIA GeForce® RTX 3050 4 GB GDDR6 Graphics Card<br>
+    - 🔧 Motherboard: Erica8<br>
+    - 🧠 RAM: 16GB DDR4<br>
+    - 📷 Webcam: HP Wide Vision 720p HD Camera<br>
+    - ⚙️ CPU: Intel Core i5-12450H<br>
+    - 🖨️ Printer: HP OfficeJet 4650<br>
+    - 🔊 Sound: Audio by B&O<br>
+    - 💾 Storage: 1 TB PCIe Gen 4.0 x4 NVMe TLC M.2 SSD<br>
+    - 🔌 Power: 200 W Smart AC power adapter
+  </p>
+  <p>
+    I have a second system for research and another for running VMs.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>🖥️ My Server(s) and Lab</h3>
+  <p>
+    I have an old Lenovo T-430 running Debian, which I might put to use in the future for hosting a server.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>🏴‍☠️ My Preferred Operating System</h3>
+  <p>
+    My go-to operating system is Debian Linux. While I develop on both Windows and Linux, I use Windows frequently for work-related tasks. In my spare time, I mix both Windows and Linux for various projects. I also put several VMs to use for development and security research, including distributions like Ubuntu, Manjaro, Mint, Arch and BlackArch (even though I’m not a huge fan of Arch).
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>🖊️ My IDE/Editor</h3>
+  <p>
+    My base editor is Visual Studio Code. My alternate is Sublime. Yes, I have more installed and have used others like Atom. Yes I can use vim (although I'm not a huge fan of vim).
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>🌐 My Browser</h3>
+  <p>
+    I use Chrome and Brave but.. I also use Tor. But that being said, I also test with Chrome Developer Tools.
+
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>🛠️ My Current Coding Projects</h3>
+  <p>
+    - 🔍 Developing cybersecurity tools.<br>
+    - ☁️ Experimenting with cloud integration.<br>
+    - 🤝 Collaborating with a nonprofit.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>📚 Education / Learning</h3>
+  <p>
+    I'm 100% self-taught, learning web development, backend technologies, and security. I am also trying to learn more about front-end frameworks.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>📖 I Would Like to Learn</h3>
+  <p>
+    - 🐳 Docker<br>
+    - ☸️ Kubernetes
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>🤝 Collaboration & Sponsorship</h3>
+  <p>
+    If you need help with a project I do sometimes contribute to open source projects.. but generally only have time to give advice. I am sorry I couldn't help more.
   </p>
 </div>
 
@@ -123,14 +234,17 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ScribeAegis&color=orange" alt="Profile Views">
+  <h3>🤩 Fun Facts</h3>
+  <p>
+    - ☕ Iced vanilla lattes are my go-to drink.<br>
+    - 🎧 I enjoy listening to podcasts.<br>
+    - 📚 Always reading up on tech.<br>
+    - 📺 I’m a fan of Netflix shows.
+  </p>
 </div>
 
----
-
 <div align="center">
-  <h3>⏳ [Under Construction]</h3>
-  <p>This README is actively being updated. Check back soon.</p>
+  <img src="https://komarev.com/ghpvc/?username=ScribeAegis&color=orange" alt="Profile Views">
 </div>
 
 <div align="center">
