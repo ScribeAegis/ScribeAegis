@@ -176,7 +176,7 @@ A web application designed to provide insights into a significant public health 
 <div align="center">
   <h3>🌐 My Browser</h3>
   <p>
-    I use Chrome and Brave but.. I also use Tor. But that being said, I also test with Chrome Developer Tools.
+    I use Chrome and Brave but.. I also use Tor. With that being said, I also test with Chrome Developer Tools.
 
   </p>
 </div>
