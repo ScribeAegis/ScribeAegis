@@ -54,6 +54,12 @@
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows">
     <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+    <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva">
+    <img src="https://img.shields.io/badge/-GIMP-D32C3D?style=flat-square&logo=gimp&logoColor=white" alt="GIMP">
+    <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" alt="NPM">
+    <img src="https://img.shields.io/badge/-Joomla-3F5B9A?style=flat-square&logo=joomla&logoColor=white" alt="Joomla">
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS">
+    <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" alt="Heroku">
   </p>
 </div>
 
