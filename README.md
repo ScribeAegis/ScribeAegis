@@ -8,12 +8,29 @@
 ---
 
 <div align="center">
+  <h3>Hey there, I'm ScribeAegis! 👋</h3>
+  <p>I'm a self-taught web developer and cybersecurity researcher. I enjoy building solutions and continuously learning about the latest tech to improve digital security.</p>
+</div>
+
+---
+
+<div align="center">
   <h3>👋 About Me</h3>
   <p>- 🔧 Self-taught web developer & security researcher.<br>
      - 🌱 Developing offensive and defensive cybersecurity tools.<br>
      - 🌐 Exploring web security and diving deeper into front-end frameworks.<br>
      - 💡 Always learning.<br>
      - 📫 Reach me via <a href="https://github.com/ScribeAegis/ScribeAegis/issues">GitHub Issues</a> or email.
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <h3>🚧 What I'm Working On</h3>
+  <p>- 🔍 Developing cybersecurity tools to aid both offensive and defensive strategies.<br>
+     - ☁️ Experimenting with serverless architectures and cloud platform integration.<br>
+     - 🤝 Collaborating with a nonprofit to address a critical public health crisis.<br>
   </p>
 </div>
 
@@ -72,6 +89,17 @@
   <a href="https://github.com/ScribeAegis/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ScribeAegis&row=2&column=3" alt="ScribeAegis's Trophies">
   </a>
+</div>
+
+---
+
+<div align="center">
+  <h3>🎉 Fun Facts</h3>
+  <p>- ☕ Iced vanilla lattes are my go-to drink.<br>
+     - 🎧 I enjoy listening to podcasts.<br>
+     - 📚 Always reading up on the latest in tech and cybersecurity.<br>
+     - 📺 I’m a fan of binge-watching Netflix shows.
+  </p>
 </div>
 
 ---
