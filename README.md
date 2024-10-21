@@ -28,7 +28,7 @@
 
 <div align="center">
   <h3>🚧 What I'm Working On</h3>
-  <p>- 🔍 Developing cybersecurity tools to aid both offensive and defensive strategies.<br>
+  <p>- 🔍 Developing cybersecurity tools both offensive and defensive.<br>
      - ☁️ Experimenting with serverless architectures and cloud platform integration.<br>
      - 🤝 Collaborating with a nonprofit to address a critical public health crisis.<br>
   </p>
