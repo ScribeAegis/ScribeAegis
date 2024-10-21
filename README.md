@@ -19,7 +19,7 @@
   <p>- 🔧 Self-taught web developer & security researcher.<br>
      - 🌱 Developing offensive and defensive cybersecurity tools.<br>
      - 🌐 Exploring web security and diving deeper into front-end frameworks.<br>
-     - 🪙 Bitcoin enthusiast.<br>
+     - 🪙 Bitcoin enthusiast and blockchain technology.<br>
      - 💡 Always learning.<br>
      - 📫 Reach me via <a href="https://github.com/ScribeAegis/ScribeAegis/issues">GitHub Issues</a> or email.
   </p>
