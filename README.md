@@ -51,6 +51,8 @@
   </p>
 </div>
 
+---
+
 <div align="center">
   <h3>📈 GitHub Stats</h3>
   <a href="https://github.com/ScribeAegis">
