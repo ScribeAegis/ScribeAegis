@@ -135,7 +135,7 @@ While I do not work as a developer in the wild, I freelance and code as a hobby,
   <p>
     My current system:<br>
     🖥️ Case: Integrated laptop chassis (Victus by HP)<br>
-    📺 Monitor: 15.6-inch FHD (1920 x 1080), WLED, antiglare, narrow bezel, 250 nits<br>
+    📺 Monitor: 15.6-inch FHD (1920 x 1080), WLED<br>
     ⌨️ Keyboard: Built-in HP keyboard<br>
     🖱️ Mouse: External Logitech M325<br>
     🎮 Graphics: NVIDIA GeForce® RTX 3050 4 GB GDDR6 Graphics Card<br>
