@@ -126,6 +126,13 @@
   <img src="https://komarev.com/ghpvc/?username=ScribeAegis&color=orange" alt="Profile Views">
 </div>
 
+---
+
+<div align="center">
+  <h3>⏳ [Under Construction]</h3>
+  <p>This README is actively being updated. Check back soon for updates!</p>
+</div>
+
 <div align="center">
   <a href="https://github.com/ScribeAegis">
     <img src="https://i.postimg.cc/CLrTzB2R/footer.png" alt="Footer">
