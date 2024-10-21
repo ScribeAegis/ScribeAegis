@@ -14,12 +14,12 @@
 <div align="center">
   <h3>📝 About Me</h3>
   <p>
-    - 🔧 Self-taught web developer & security researcher.<br>
-    - 🌱 Developing offensive and defensive cybersecurity tools.<br>
-    - 🌐 Exploring web security and diving deeper into front-end frameworks.<br>
-    - 🪙 Bitcoin enthusiast and blockchain technology.<br>
-    - 💡 Always learning.<br>
-    - 📫 Reach me via <a href="https://github.com/ScribeAegis/ScribeAegis/issues">GitHub Issues</a> or email.
+    🔧 Self-taught web developer & security researcher.<br>
+    🌱 Developing offensive and defensive cybersecurity tools.<br>
+    🌐 Exploring web security and diving deeper into front-end frameworks.<br>
+    🪙 Bitcoin enthusiast and blockchain technology.<br>
+    💡 Always learning.<br>
+    📫 Reach me via <a href="https://github.com/ScribeAegis/ScribeAegis/issues">GitHub Issues</a> or email.
   </p>
 </div>
 
@@ -88,9 +88,9 @@ While I do not work as a developer in the wild, I freelance and code as a hobby,
 <div align="center">
   <h3>📝 My Past Work</h3>
   <p>
-    - Led technical initiatives and oversaw digital infrastructure, including website development and cybersecurity.<br>
-    - Contributed strategic insights while serving on the board of directors for a nonprofit organization.<br>
-    - Engaged in various projects aimed at leveraging technology for positive community impact.
+    🚀 Led technical initiatives and oversaw digital infrastructure, including website development and cybersecurity.<br>
+    🏛️ Contributed strategic insights while serving on the board of directors for a nonprofit organization.<br>
+    🌍 Engaged in various projects aimed at leveraging technology for positive community impact.
   </p>
 </div>
 
@@ -99,18 +99,22 @@ While I do not work as a developer in the wild, I freelance and code as a hobby,
 <div align="center">
   <h3>🎨 My Hobbies</h3>
   <p>
-    - [Under Construction]
+    📚 Diving into reading and coding projects<br>
+    🕵️‍♂️ Exploring the world of malware and cybersecurity threats<br>
+    🌮 Savoring diverse street food<br>
+    ✈️ Traveling with family whenever I can<br>
+    🏘️ Getting involved in local community events<br>
+    💻 Experimenting with web development and network security<br>
+    🎥 Staying curious through informational videos and self-learning<br>
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <h3>🔐 CTF Projects</h3>
+  <h3>🔐 CTF Experience</h3>
   <p>
-    - [Under Construction]<br>
-    - TryHackMe (*coming soon*)<br>
-    - Hack The Box (*coming soon*)
+    💻 [TryHackMe](https://tryhackme.com/r/p/Skeptik): I have an account, though it's been over a year since I last logged in.<br>
   </p>
 </div>
 
@@ -119,9 +123,8 @@ While I do not work as a developer in the wild, I freelance and code as a hobby,
 <div align="center">
   <h3>📦 Future Projects</h3>
   <p>
-    - Crisis Awareness Dashboard.
-A web application designed to provide insights into a significant public health issue. It aggregates data from various reputable sources to visualize trends, statistics, and available resources related to the crisis. The main objective of this project is to educate the public about a pressing health crisis by providing accessible and up-to-date information. It aims to create awareness and encourage proactive measures through informed decision-making and resource accessibility.<br>
-    The main objective of this project is to educate the public about a pressing health crisis by providing accessible and up-to-date information. It aims to create awareness and encourage proactive measures through informed decision-making and resource accessibility.
+    🆘 Crisis Awareness Dashboard<br>
+    A web application designed to provide insights into a significant public health issue. It aggregates data from various reputable sources to visualize trends, statistics, and available resources related to the crisis. The main objective of this project is to educate the public about a pressing health crisis by providing accessible and up-to-date information. It aims to create awareness and encourage proactive measures through informed decision-making and resource accessibility.
   </p>
 </div>
 
@@ -131,19 +134,19 @@ A web application designed to provide insights into a significant public health 
   <h3>💻 My Computer(s)</h3>
   <p>
     My current system:<br>
-    - 🖥️ Case: Integrated laptop chassis (Victus by HP)<br>
-    - 📺 Monitor: 15.6-inch FHD (1920 x 1080), WLED, antiglare, narrow bezel, 250 nits<br>
-    - ⌨️ Keyboard: Built-in HP keyboard<br>
-    - 🖱️ Mouse: External Logitech M325<br>
-    - 🎮 Graphics: NVIDIA GeForce® RTX 3050 4 GB GDDR6 Graphics Card<br>
-    - 🔧 Motherboard: Erica8<br>
-    - 🧠 RAM: 16GB DDR4<br>
-    - 📷 Webcam: HP Wide Vision 720p HD Camera<br>
-    - ⚙️ CPU: Intel Core i5-12450H<br>
-    - 🖨️ Printer: HP OfficeJet 4650<br>
-    - 🔊 Sound: Audio by B&O<br>
-    - 💾 Storage: 1 TB PCIe Gen 4.0 x4 NVMe TLC M.2 SSD<br>
-    - 🔌 Power: 200 W Smart AC power adapter
+    🖥️ Case: Integrated laptop chassis (Victus by HP)<br>
+    📺 Monitor: 15.6-inch FHD (1920 x 1080), WLED, antiglare, narrow bezel, 250 nits<br>
+    ⌨️ Keyboard: Built-in HP keyboard<br>
+    🖱️ Mouse: External Logitech M325<br>
+    🎮 Graphics: NVIDIA GeForce® RTX 3050 4 GB GDDR6 Graphics Card<br>
+    🔧 Motherboard: Erica8<br>
+    🧠 RAM: 16GB DDR4<br>
+    📷 Webcam: HP Wide Vision 720p HD Camera<br>
+    ⚙️ CPU: Intel Core i5-12450H<br>
+    🖨️ Printer: HP OfficeJet 4650<br>
+    🔊 Sound: Audio by B&O<br>
+    💾 Storage: 1 TB PCIe Gen 4.0 x4 NVMe TLC M.2 SSD<br>
+    🔌 Power: 200 W Smart AC power adapter
   </p>
   <p>
     I have a second system for research and another for running VMs.
@@ -155,7 +158,7 @@ A web application designed to provide insights into a significant public health 
 <div align="center">
   <h3>🖥️ My Server(s) and Lab</h3>
   <p>
-    I have an old Lenovo T-430 running Debian, which I might put to use in the future for hosting a server.
+    I have an old Lenovo T-430 running Debian and several VMs, which I might put to use in the future for hosting a server or possibly configuring and hosting a Tor exit node.
   </p>
 </div>
 
@@ -164,7 +167,7 @@ A web application designed to provide insights into a significant public health 
 <div align="center">
   <h3>🏴‍☠️ My Preferred Operating System</h3>
   <p>
-    My go-to operating system is Debian Linux. While I develop on both Windows and Linux, I use Windows frequently for work-related tasks. In my spare time, I mix both Windows and Linux for various projects. I also put several VMs to use for development and security research, including distributions like Ubuntu, Manjaro, Mint, Arch and BlackArch (even though I’m not a huge fan of Arch).
+    My go-to operating system is Debian Linux. While I develop on both Windows and Linux, I use Windows frequently for work-related tasks. In my spare time, I mix both Windows and Linux for various projects. I also put several VMs to use for development and security research, including distributions like Ubuntu, Manjaro, Mint, Arch and BlackArch (although I’m not a huge fan of Arch).
   </p>
 </div>
 
@@ -190,11 +193,11 @@ A web application designed to provide insights into a significant public health 
 ---
 
 <div align="center">
-  <h3>🛠️ My Current Coding Projects</h3>
+  <h3>🧩 My Current Coding Projects</h3>
   <p>
-    - 🔍 Developing cybersecurity tools.<br>
-    - ☁️ Experimenting with cloud integration.<br>
-    - 🤝 Collaborating with a nonprofit.
+    🔍 Diving deeper into cybersecurity to sharpen my skills in threat detection and response.<br>
+    ☁️ Experimenting with new technologies to enhance the impact of initiatives and streamline operations.<br>
+    🔧 Tackling challenging coding problems to push my skills and learn new techniques.<br>
   </p>
 </div>
 
@@ -203,7 +206,7 @@ A web application designed to provide insights into a significant public health 
 <div align="center">
   <h3>📚 Education / Learning</h3>
   <p>
-    I'm 100% self-taught, learning web development, backend technologies, and security. I am also trying to learn more about front-end frameworks.
+    I'm 100% self-taught, learning web development, backend technologies, and security. I am also trying to learn more about front-end frameworks and blockchain technology.
   </p>
 </div>
 
@@ -212,8 +215,8 @@ A web application designed to provide insights into a significant public health 
 <div align="center">
   <h3>📖 I Would Like to Learn</h3>
   <p>
-    - 🐳 Docker<br>
-    - ☸️ Kubernetes
+    🐳 Docker<br>
+    ☸️ Kubernetes
   </p>
 </div>
 
@@ -242,10 +245,10 @@ A web application designed to provide insights into a significant public health 
 <div align="center">
   <h3>🤩 Fun Facts</h3>
   <p>
-    - ☕ Iced vanilla lattes are my go-to drink.<br>
-    - 🎧 I enjoy listening to podcasts.<br>
-    - 📚 Always reading up on the latest in tech and cybersecurity.<br>
-    - 📺 I’m a fan of binge-watching Netflix shows.
+    ☕ Iced vanilla lattes are my go-to drink.<br>
+    🎧 I enjoy listening to podcasts.<br>
+    📚 Always reading up on the latest in tech and cybersecurity.<br>
+    📺 I’m a fan of binge-watching Netflix shows.
   </p>
 </div>
 
