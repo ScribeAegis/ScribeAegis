@@ -10,8 +10,8 @@
 <div align="center">
   <h3>👋 About Me</h3>
   <p>- 🔧 Self-taught web developer & security researcher.<br>
-     - 🌱 Currently focusing on developing offensive and defensive tools to enhance cybersecurity.<br>
-     - 🌐 Actively learning more about web security and front-end frameworks.<br>
+     - 🌱 Developing offensive and defensive cybersecurity tools.<br>
+     - 🌐 Exploring web security and diving deeper into front-end frameworks.<br>
      - 💡 Always learning.<br>
      - 📫 Reach me via <a href="https://github.com/ScribeAegis/ScribeAegis/issues">GitHub Issues</a> or email.
   </p>
