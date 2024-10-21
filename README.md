@@ -77,7 +77,7 @@
 ---
 
 <div align="center">
-  <h3>🚀 Projects</h3>
+  <h3>🧩 Projects</h3>
   <p>- <a href="https://github.com/ScribeAegis/DataHawk">DataHawk</a>: An OSINT web crawler for scraping sensitive information.<br>
      - <a href="https://github.com/ScribeAegis/CloudRip">CloudRip</a>: Cloudflare resolver that helps discover the real IP addresses of domains by enumerating subdomains.
   </p>
@@ -95,7 +95,7 @@
 ---
 
 <div align="center">
-  <h3>🎉 Fun Facts</h3>
+  <h3>🤩 Fun Facts</h3>
   <p>- ☕ Iced vanilla lattes are my go-to drink.<br>
      - 🎧 I enjoy listening to podcasts.<br>
      - 📚 Always reading up on the latest in tech and cybersecurity.<br>
