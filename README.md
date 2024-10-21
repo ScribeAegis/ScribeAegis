@@ -240,8 +240,8 @@ A web application designed to provide insights into a significant public health 
   <p>
     - ☕ Iced vanilla lattes are my go-to drink.<br>
     - 🎧 I enjoy listening to podcasts.<br>
-    - 📚 Always reading up on tech.<br>
-    - 📺 I’m a fan of Netflix shows.
+    - 📚 Always reading up on the latest in tech and cybersecurity.<br>
+    - 📺 I’m a fan of binge-watching Netflix shows.
   </p>
 </div>
 
