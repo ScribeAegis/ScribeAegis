@@ -68,6 +68,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScribeAegis&theme=default&show_icons=true&hide_border=true&layout=compact" alt="ScribeAegis's Top Languages">
 </div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ScribeAegis&row=2&column=3" alt="GitHub Profile Trophy" />
+</p>
+
 ---
 
 <div align="center">
