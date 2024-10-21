@@ -130,7 +130,7 @@
 
 <div align="center">
   <h3>⏳ [Under Construction]</h3>
-  <p>This README is actively being updated. Check back soon for updates!</p>
+  <p>This README is actively being updated. Check back soon.</p>
 </div>
 
 <div align="center">
