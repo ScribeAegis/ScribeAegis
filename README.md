@@ -15,7 +15,7 @@
 ---
 
 <div align="center">
-  <h3>👋 About Me</h3>
+  <h3>📝 About Me</h3>
   <p>- 🔧 Self-taught web developer & security researcher.<br>
      - 🌱 Developing offensive and defensive cybersecurity tools.<br>
      - 🌐 Exploring web security and diving deeper into front-end frameworks.<br>
