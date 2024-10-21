@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3>Hey there, I'm ScribeAegis! 👋</h3>
-  <p>I'm a self-taught web developer and cybersecurity researcher. I enjoy building solutions and continuously learning about the latest tech to improve digital security.</p>
+  <p>I enjoy building solutions and continuously learning about the latest tech to improve digital security.</p>
 </div>
 
 ---
