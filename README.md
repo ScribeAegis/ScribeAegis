@@ -138,7 +138,7 @@ While I do not work as a developer in the wild, I freelance and code as a hobby,
     📺 Monitor: 15.6-inch FHD (1920 x 1080), WLED<br>
     ⌨️ Keyboard: Built-in HP keyboard<br>
     🖱️ Mouse: External Logitech M325<br>
-    🎮 Graphics: NVIDIA GeForce® RTX 3050 4 GB GDDR6 Graphics Card<br>
+    🎮 Graphics: NVIDIA GeForce® RTX 3050 4 GB GDDR6<br>
     🔧 Motherboard: Erica8<br>
     🧠 RAM: 16GB DDR4<br>
     📷 Webcam: HP Wide Vision 720p HD Camera<br>
@@ -149,7 +149,7 @@ While I do not work as a developer in the wild, I freelance and code as a hobby,
     🔌 Power: 200 W Smart AC power adapter
   </p>
   <p>
-    I have a second system for research and another for running VMs.
+    I have a second system for research and for running VMs.
   </p>
 </div>
 
@@ -195,9 +195,8 @@ While I do not work as a developer in the wild, I freelance and code as a hobby,
 <div align="center">
   <h3>🧩 My Current Coding Projects</h3>
   <p>
-    🔍 Diving deeper into cybersecurity to sharpen my skills in threat detection and response.<br>
-    ☁️ Experimenting with new technologies to enhance the impact of initiatives and streamline operations.<br>
-    🔧 Tackling challenging coding problems to push my skills and learn new techniques.<br>
+    📊 [DataHawk](https://github.com/ScribeAegis/DataHawk) - OSINT web crawler for scraping sensitive information.<br>
+    ☁️ [CloudRip](https://github.com/ScribeAegis/CloudRip) Cloudflare resolver to discover the real IP addresses of domains.<br>
   </p>
 </div>
 
