@@ -124,7 +124,7 @@ While I do not work as a developer in the wild, I freelance and code as a hobby,
   <h3>📦 Future Projects</h3>
   <p>
     🆘 Crisis Awareness Dashboard<br>
-    A web application designed to provide insights into a significant public health issue. It aggregates data from various reputable sources to visualize trends, statistics, and available resources related to the crisis. The main objective of this project is to educate the public about a pressing health crisis by providing accessible and up-to-date information. It aims to create awareness and encourage proactive measures through informed decision-making and resource accessibility.
+    A web application designed to provide insights into a significant public health issue. It aggregates data from various reputable sources to visualize trends, statistics, and available resources related to the crisis. The main objective of this project is to educate the public about a pressing health crisis by providing accessible and up to date information and create awareness.
   </p>
 </div>
 
@@ -224,7 +224,7 @@ While I do not work as a developer in the wild, I freelance and code as a hobby,
 <div align="center">
   <h3>🤝 Collaboration & Sponsorship</h3>
   <p>
-    If you need help with a project I do sometimes contribute to open source projects.. but generally only have time to give advice. I am sorry I couldn't help more.
+    If you need help with a project I do sometimes contribute to open source projects.. but generally only have time to give advice, sorry I couldn't help more.
   </p>
 </div>
 
