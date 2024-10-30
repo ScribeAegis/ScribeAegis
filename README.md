@@ -9,12 +9,12 @@ I enjoy building solutions and continuously learning about the latest tech to im
 ---
 
 ### 📝 About Me
-- 🔧 Self-taught web developer & cybersecurity researcher.
-- 🌱 Developing offensive and defensive cybersecurity tools.
-- 🌐 Exploring web security and diving deeper into front-end frameworks.
-- 🪙 Bitcoin enthusiast and blockchain technology.
-- 💡 Always learning.
-- 📫 Reach me via [GitHub Issues](https://github.com/ScribeAegis/ScribeAegis/issues) or email.
+-  Self-taught web developer & cybersecurity researcher.
+-  Developing offensive and defensive cybersecurity tools.
+-  Exploring web security and diving deeper into front-end frameworks.
+-  Bitcoin enthusiast and blockchain technology.
+-  Always learning.
+-  Reach me via [GitHub Issues](https://github.com/ScribeAegis/ScribeAegis/issues) or email.
 
 ---
 
@@ -62,25 +62,25 @@ While I do not work as a developer in the wild, I freelance and code as a hobby,
 ---
 
 ### 📝 My Past Work
-- 🚀 Led technical initiatives and oversaw digital infrastructure, including website development and cybersecurity.
-- 🏛️ Contributed strategic insights while serving on the board of directors for a nonprofit organization.
-- 🌍 Engaged in various projects aimed at leveraging technology for positive community impact.
+-  Led technical initiatives and oversaw digital infrastructure, including website development and cybersecurity.
+-  Contributed strategic insights while serving on the board of directors for a nonprofit organization.
+-  Engaged in various projects aimed at leveraging technology for positive community impact.
 
 ---
 
 ### 🎨 My Hobbies
-- 📚 Diving into reading and coding projects
-- 🕵️‍♂️ Exploring the world of malware and cybersecurity threats
-- 🌮 Savoring diverse street food
-- ✈️ Traveling with family whenever I can
-- 🏘️ Getting involved in local community events
-- 💻 Experimenting with web development and network security
-- 🎥 Staying curious through informational videos and self-learning
+-  Diving into reading and coding projects
+-  Exploring the world of malware and cybersecurity threats
+-  Savoring diverse street food
+-  Traveling with family whenever I can
+-  Getting involved in local community events
+-  Experimenting with web development and network security
+-  Staying curious through informational videos and self-learning
 
 ---
 
 ### 🔐 CTF Experience
-💻 [TryHackMe](https://tryhackme.com/r/p/Skeptik): I have an account, though it's been over a year since I last logged in.
+ [TryHackMe](https://tryhackme.com/r/p/Skeptik): I have an account, though it's been over a year since I last logged in.
 
 ---
 
@@ -119,8 +119,8 @@ I use Chrome and Brave but also test with Tor and Chrome Developer Tools.
 ---
 
 ### 🧩 My Current Coding Projects
-- 📊 [DataHawk](https://github.com/ScribeAegis/DataHawk) - OSINT web crawler for scraping sensitive information.
-- ☁️ [CloudRip](https://github.com/ScribeAegis/CloudRip) - Cloudflare resolver to discover the real IP addresses of domains.
+-  [DataHawk](https://github.com/ScribeAegis/DataHawk) - OSINT web crawler for scraping sensitive information.
+-  [CloudRip](https://github.com/ScribeAegis/CloudRip) - Cloudflare resolver to discover the real IP addresses of domains.
 
 ---
 
@@ -130,8 +130,8 @@ I'm 100% self-taught, learning web development, backend technologies, and securi
 ---
 
 ### 📖 I Would Like to Learn
-- 🐳 Docker
-- ☸️ Kubernetes
+-  Docker
+-  Kubernetes
 
 ---
 
@@ -145,11 +145,11 @@ If you need help with a project, I sometimes contribute to open source projects 
 
 ---
 
-### 🤩 Fun Facts
-- ☕ Iced vanilla lattes are my go-to drink.
-- 🎧 I enjoy listening to podcasts.
-- 📚 Always reading up on the latest in tech and cybersecurity.
-- 📺 I’m a fan of binge-watching Netflix shows.
+### 💡 Fun Facts
+-  Iced vanilla lattes are my go-to drink.
+-  I enjoy listening to podcasts.
+-  Always reading up on the latest in tech and cybersecurity.
+-  I’m a fan of binge-watching Netflix shows.
 
 ---
 
