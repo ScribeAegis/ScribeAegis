@@ -136,7 +136,7 @@ I'm 100% self-taught, learning web development, backend technologies, and securi
 ---
 
 ### 🤝 Collaboration & Sponsorship
-If you need help with a project, I sometimes contribute to open source projects but generally only have time to give advice.
+If you need help with a project, I sometimes contribute to open source projects but generally I do not have the time, sorry I could not be more help.
 
 ---
 
