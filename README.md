@@ -130,8 +130,7 @@ I'm 100% self-taught, learning web development, backend technologies, and securi
 ---
 
 ### 📖 I Would Like to Learn
--  Docker
--  Kubernetes
+-  so much!
 
 ---
 
