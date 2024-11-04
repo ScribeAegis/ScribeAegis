@@ -104,7 +104,7 @@ I have an old Lenovo T-430 running Debian and several VMs, which I might put to 
 ---
 
 ### 🏴‍☠️ My Preferred Operating System
-My go-to operating system is Debian Linux. I develop on both Windows and Linux and use VMs for security research, including Ubuntu, Manjaro, Mint, Arch, and BlackArch.
+My go-to operating system is Debian Linux. I develop on both Windows and Linux and use VMs for security research, including Ubuntu, Manjaro, Mint, Arch, Kali and BlackArch (although I am not a huge fan of arch).
 
 ---
 
