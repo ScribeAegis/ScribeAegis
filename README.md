@@ -99,7 +99,7 @@ I have a second system for research and for running VMs.
 ---
 
 ### 🖥️ My Server(s) and Lab
-I have an old Lenovo T-430 running Debian and several VMs, which I might put to use in the future for hosting a server or possibly configuring and hosting a Tor exit node.
+I have an old Lenovo T-430 running Debian and several VMs, which I might put to use in the future for hosting a server or possibly configuring and hosting a Tor node.
 
 ---
 
