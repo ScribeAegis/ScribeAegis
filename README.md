@@ -10,7 +10,6 @@ I enjoy building solutions and continuously learning about the latest tech to im
 
 ### 📝 About Me
 -  Self-taught web developer & cybersecurity researcher.
--  Developing offensive and defensive cybersecurity tools.
 -  Exploring web security and diving deeper into front-end frameworks.
 -  Bitcoin enthusiast and blockchain technology.
 -  Always learning.
