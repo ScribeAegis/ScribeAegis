@@ -108,7 +108,7 @@ My go-to operating system is Debian Linux. I develop on both Windows and Linux a
 ---
 
 ### 🖊️ My IDE/Editor
-My base editor is Visual Studio Code, with Sublime as an alternate. I have used others like Atom, and while I know Vim, it’s not my favorite.
+My base editor is Visual Studio Code. I have used others like Atom, and while I know Vim, it’s not my favorite.
 
 ---
 
