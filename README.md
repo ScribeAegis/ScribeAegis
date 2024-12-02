@@ -70,7 +70,7 @@ While I do not work as a developer in the wild, I freelance and code as a hobby,
 ### 🎨 My Hobbies
 -  Diving into reading and coding projects
 -  Exploring the world of malware and cybersecurity threats
--  Savoring diverse street food
+-  Enjoying diverse street foods
 -  Traveling with family whenever I can
 -  Getting involved in local community events
 -  Experimenting with web development and network security
