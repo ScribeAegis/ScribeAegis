@@ -32,7 +32,6 @@ I enjoy developing solutions and continuously learning about the latest tech to 
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![GIMP](https://img.shields.io/badge/-GIMP-D32C3D?style=flat-square&logo=gimp&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![Joomla](https://img.shields.io/badge/-Joomla-3F5B9A?style=flat-square&logo=joomla&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
