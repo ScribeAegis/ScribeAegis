@@ -9,7 +9,7 @@
 -  Exploring web security and diving deeper into front-end frameworks.
 -  Bitcoin enthusiast and blockchain technology.
 -  Always learning.
--  Reach me via [GitHub Issues](https://github.com/ScribeAegis/ScribeAegis/issues) or email.
+-  Reach me via [GitHub Issues](https://github.com/ScribeAegis/ScribeAegis/issues).
 
 ---
 
