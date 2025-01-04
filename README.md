@@ -1,7 +1,6 @@
 # ScribeAegis
 
 ### Hey there, I'm Jason! 👋
-I enjoy developing solutions and continuously learning about the latest tech to improve digital security.
 
 ---
 
