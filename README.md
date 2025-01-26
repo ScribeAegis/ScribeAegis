@@ -25,7 +25,6 @@ Hi there 👋!
   - **Programming:** `Python` • `Node.js` • `JavaScript` • `TypeScript`
   - **Framework:** `ReactJS` • `Flask`
   - **Databases:** `MySQL` • `MongoDB`
-  - **Operating Systems:** `Windows` • `Linux`
   - **Protocol:** `REST` • `Web Socket`
 
 - 🖥 **Frontend:**
@@ -36,6 +35,7 @@ Hi there 👋!
   - **Design Tools:** `Canva` • `GIMP`
 
 - 🎡 **Ecosystem:**
+  - **Operating Systems:** `Windows` • `Linux`
   - **Containerization:** `GitHub Codespaces`
   - **Version Control:** `Git` • `GitHub`
   - **CI/CD:** `Github Actions`
