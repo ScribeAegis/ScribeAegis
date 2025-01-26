@@ -1,50 +1,75 @@
-# ScribeAegis
+Hi there 👋!
 
-### Hey there, I'm Jason! 👋
+#### Who I am?
 
----
+- A Self-taught web developer based in **[California](https://en.wikipedia.org/wiki/California), [United States](https://en.wikipedia.org/wiki/United_States)** with 3+ years of experience.
+- Volunteering and providing IT support to a local non-profit organization  **[Mothers In Grief Support Group](https://mothersingriefsupportgroup.com)**.
+- See my portfolio at **[github.com](https://scribeaegis.github.io/portfolio/)**.
 
-### 📝 About Me
--  Self-taught web developer & cybersecurity researcher.
--  Exploring web security and diving deeper into front-end frameworks.
--  Bitcoin enthusiast and blockchain technology.
--  Always learning.
--  Reach me via [GitHub Issues](https://github.com/ScribeAegis/ScribeAegis/issues).
+#### About me?
 
----
+- Exploring web security and diving deeper into front-end frameworks.
+- Bitcoin enthusiast and blockchain technology.
+- Always learning.
 
-### 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![GIMP](https://img.shields.io/badge/-GIMP-D32C3D?style=flat-square&logo=gimp&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+#### What I'm doing?
 
----
+- Writing `Python`, `Markdown`, `Node.js`, `JavaScript`, `ReactJS`
+- Contributing to Open Source. (Mostly my own projects)
+- Active on **[LinkedIn](https://www.linkedin.com/in/jagwire/)**, and **[Facebook](https://www.facebook.com/fbjasong)**.
+- Building currently **[Portfolio](https://scribeaegis.github.io/portfolio/)**(Rebuilding)
 
-### 📈 GitHub Stats
+#### What are my skill sets?
 
-![ScribeAegis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScribeAegis&theme=default&show_icons=true&hide_border=true&count_private=true)
+- 🗄️ **Backend:**
 
-![ScribeAegis's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ScribeAegis&theme=default&hide_border=true)
+  - **Programming:** `Python` • `Node.js` • `JavaScript` • `TypeScript`
+  - **Framework:** `ReactJS` • `Flask`
+  - **Databases:** `MySQL` • `MongoDB`
+  - **Operating Systems:** `Windows` • `Linux`
+  - **Protocol:** `REST` • `Web Socket`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScribeAegis&theme=default&show_icons=true&hide_border=true&layout=compact)
+- 🖥 **Frontend:**
 
-![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ScribeAegis&row=2&column=3)
+  - **Programming:** `JavaScript`
+  - **Framework/Library:** `React.js` • `Electron`
+  - **Utils:** `Tailwind` • `Modular CSS`
+  - **Design Tools:** `Canva` • `GIMP`
+
+- 🎡 **Ecosystem:**
+  - **Containerization:** `GitHub Codespaces`
+  - **Version Control:** `Git` • `GitHub`
+  - **CI/CD:** `Github Actions`
+  - **Project Management:** `Jira` • `GitHub Projects`
+  - **Package Management:** `NPM`
+  - **Cloud Hosting:** `AWS` • `Google Cloud` • `Heroku`
+
+- 📦 **Web Development Tools:**
+  - **CMS** `WordPress` • `Squarespace` • `Wix`
+  - **Markup Language:** `Markdown`
+  - **IDE:** `Visual Studio Code`
+
+#### How to reach me?
+
+<a href="https://www.linkedin.com/in/jagwire/">
+  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/fbjasong">
+  <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
+</a>
+
+<a href="mailto:jgianakopulos@gmail.com">
+  <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
+</a>
+
+<br/>
+<br/>
+<br/>
+
+<p align="center">
+<a href="http://www.github.com/ScribeAegis"><img src="https://github-readme-stats.vercel.app/api?username=ScribeAegis&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="ScribeAegis's GitHub stats" /></a>
+<a href="http://www.github.com/ScribeAegis"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arifszn&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+ </p>
 
 ---
 
