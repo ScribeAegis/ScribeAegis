@@ -2,9 +2,8 @@ Hi there 👋!
 
 #### Who I am?
 
-- A Self-taught web developer based in **[California](https://en.wikipedia.org/wiki/California), [United States](https://en.wikipedia.org/wiki/United_States)** with 3+ years of experience.
-- Volunteering and providing IT support to a local non-profit organization  **[Mothers In Grief Support Group](https://mothersingriefsupportgroup.com)**.
-
+- A Self-taught web developer based in **[California](https://en.wikipedia.org/wiki/California), [United States](https://en.wikipedia.org/wiki/United_States)**.
+  
 #### About me?
 
 - Exploring web security and diving deeper into front-end frameworks.
