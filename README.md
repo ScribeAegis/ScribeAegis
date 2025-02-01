@@ -70,8 +70,11 @@
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ScribeAegis&theme=default&hide_border=true" alt="GitHub Streak Stats" />
-</p>
+<div align="center">
 
+![trophy](https://github-profile-trophy.vercel.app/?username=ScribeAegis&row=2&column=3)
+
+</div>
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ScribeAegis&color=orange)
