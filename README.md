@@ -10,7 +10,7 @@
 
 #### What I'm doing?
 
-- Writing code in `Python`, `GO`, `Markdown`, `Node.js`, `JavaScript`, `ReactJS`
+- Writing code in `Python`, `GO`, `Node.js`, `JavaScript`, `ReactJS`
 - Contributing to Open Source. (Mostly my own projects)
 - Active on **[LinkedIn](https://www.linkedin.com/in/jagwire/)**, and **[Facebook](https://www.facebook.com/fbjasong)**.
 - Currently rebuilding **[Portfolio](https://scribeaegis.github.io/)**.
@@ -33,7 +33,7 @@
 
 - 🎡 **Ecosystem:**
   - **Operating Systems:** `Windows` • `Linux`
-  - **Containerization:** `GitHub Codespaces`
+  - **Containerization:** `GitHub` • `Docker`
   - **Version Control:** `Git` • `GitHub`
   - **CI/CD:** `Github Actions`
   - **Project Management:** `Jira` • `GitHub Projects`
