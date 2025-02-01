@@ -19,7 +19,7 @@
 
 - 🗄️ **Backend:**
 
-  - **Programming:** `Python` • `Node.js` • `JavaScript` • `TypeScript`
+  - **Programming:** `Python` • `Node.js` • `TypeScript`
   - **Framework:** `ReactJS` • `Flask`
   - **Databases:** `MySQL` • `MongoDB`
   - **Protocol:** `REST` • `Web Socket`
