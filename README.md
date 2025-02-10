@@ -13,7 +13,7 @@
 - Writing code in `Python`, `GO`, `JavaScript`, `ReactJS`
 - Contributing to Open Source. (Mostly my own projects)
 - Active on **[LinkedIn](https://www.linkedin.com/in/jagwire/)**, and **[Facebook](https://www.facebook.com/fbjasong)**.
-- Currently rebuilding **[Portfolio](https://github.com)**.
+- Currently rebuilding **[Portfolio](https://scribeaegis.github.io/)**.
 
 #### What are my skill sets?
 
