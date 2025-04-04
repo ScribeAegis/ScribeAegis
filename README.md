@@ -54,7 +54,7 @@
   <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
 </a>
 
-<a href="mailto:jgianakopulos@gmail.com">
+<a href="mailto:pub.inbox@proton.me">
   <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
 </a>
 
