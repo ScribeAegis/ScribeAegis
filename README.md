@@ -35,7 +35,7 @@
   - **Operating Systems:** `Windows` • `Linux`
   - **Containerization:** `GitHub` • `Docker`
   - **Version Control:** `Git` • `GitHub`
-  - **CI/CD:** `Github Actions`
+  - **CI/CD:** `GitHub Actions`
   - **Project Management:** `Jira` • `GitHub Projects`
   - **Package Management:** `NPM`
   - **Cloud Hosting:** `AWS` • `Google Cloud` • `Heroku`
