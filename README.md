@@ -26,7 +26,7 @@
 
 - 🖥 **Frontend:**
 
-  - **Programming:** `HTML` • `CSS` • `Javascript`
+  - **Programming:** `HTML` • `CSS` • `JavaScript`
   - **Framework/Library:** `React.js` • `Electron`
   - **Utils:** `Tailwind` • `Modular CSS`
   - **Design Tools:** `Canva` • `GIMP`
