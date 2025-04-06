@@ -17,21 +17,21 @@
 
 #### What are my skill sets?
 
-- 🗄️ **Backend:**
+- **Backend:**
 
   - **Programming:** `Python` • `Node.js` • `TypeScript`
   - **Framework:** `ReactJS`
   - **Databases:** `MySQL` • `MongoDB`
   - **Protocol:** `REST` • `Web Socket`
 
-- 🖥 **Frontend:**
+- **Frontend:**
 
   - **Programming:** `HTML` • `CSS` • `JavaScript`
   - **Framework/Library:** `React.js` • `Electron`
   - **Utils:** `Tailwind` • `Modular CSS`
   - **Design Tools:** `Canva` • `GIMP`
 
-- 🎡 **Ecosystem:**
+- **Ecosystem:**
   - **Operating Systems:** `Windows` • `Linux`
   - **Containerization:** `GitHub` • `Docker`
   - **Version Control:** `Git` • `GitHub`
@@ -40,7 +40,7 @@
   - **Package Management:** `NPM`
   - **Cloud Hosting:** `AWS` • `Google Cloud` • `Heroku`
 
-- 📦 **Web Development Tools:**
+- **Web Development Tools:**
   - **CMS** `WordPress` • `Squarespace` • `Wix`
   - **Markup Language:** `Markdown`
   - **IDE:** `Visual Studio Code`
