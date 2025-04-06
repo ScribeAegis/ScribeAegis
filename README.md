@@ -75,7 +75,6 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=ScribeAegis&row=2&column=3)
 
 </div>
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ScribeAegis&color=orange)
 
