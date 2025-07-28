@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I'm Jason</h1>
-<p align="center">Developer | Web Security Explorer | Blockchain Enthusiast</p>
-
----
 
 ### Who I Am
 
