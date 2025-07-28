@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Jason</h1>
-
 ### Who I Am
 
 - Developer based in **[California](https://en.wikipedia.org/wiki/California), [United States](https://en.wikipedia.org/wiki/United_States)**
