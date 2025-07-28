@@ -31,7 +31,7 @@
 - `HTML`, `CSS`, `JavaScript`, `React.js`, `Electron`, `Tailwind CSS`, `Modular CSS`
 
 #### Ecosystem:
-- `Linux`, `Docker`, `Git`, `GitHub Actions`, `AWS`, `Heroku`, `Netlify`, `Google Cloud`
+- `Windows`, `Linux`, `Docker`, `Git`, `GitHub Actions`, `AWS`, `Heroku`, `Netlify`, `Google Cloud`
 
 #### Tools:
 - `WordPress`, `Wix`, `Squarespace`, `Markdown`, `VS Code`, `Android Studio`, `GIMP`, `Canva`
