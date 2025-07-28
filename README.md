@@ -17,7 +17,7 @@
 ### What I'm Doing
 
 - Coding in `Python`, `Go`, `JavaScript`
-- Building open-source projects  
+- Building open-source projects (mostly my own)
 - Active on [LinkedIn](https://linkedin.com/in/jagwire) and [Facebook](https://facebook.com/fbjasong)  
 - Rebuilding my [Portfolio](https://scribeaegis.github.io/)
 
