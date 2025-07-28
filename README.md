@@ -12,5 +12,7 @@
 
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ScribeAegis&color=orange)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ScribeAegis&color=orange" alt="Profile Views" />
+</p>
 
