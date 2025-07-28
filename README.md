@@ -31,7 +31,7 @@
 - `MySQL`, `MongoDB`
 
 #### Frontend:
-- `React.js`, `Electron`, `Tailwind`, `Modular CSS`
+- `HTML`, `CSS`, `JavaScript`, `React.js`, `Electron`, `Tailwind CSS`, `Modular CSS`
 
 #### Ecosystem:
 - `Linux`, `Docker`, `Git`, `GitHub Actions`, `AWS`, `Heroku`, `Netlify`, `Google Cloud`
