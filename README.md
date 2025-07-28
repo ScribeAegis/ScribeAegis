@@ -27,8 +27,7 @@
 <summary><b>My Technical Skills</b></summary>
 
 #### Backend:
-- `Python`, `Node.js`, `REST`, `WebSocket`
-- `MySQL`, `MongoDB`
+- `Python`, `Node.js`, `REST`, `WebSocket`, `MySQL`, `MongoDB`
 
 #### Frontend:
 - `HTML`, `CSS`, `JavaScript`, `React.js`, `Electron`, `Tailwind CSS`, `Modular CSS`
