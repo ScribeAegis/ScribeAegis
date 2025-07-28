@@ -34,7 +34,7 @@
 - `Linux`, `Docker`, `Git`, `GitHub Actions`, `AWS`, `Heroku`, `Netlify`, `Google Cloud`
 
 #### Tools:
-- `WordPress`, `Wix`, `Squarespace`, `Markdown`, `VS Code`, `GIMP`, `Canva`
+- `WordPress`, `Wix`, `Squarespace`, `Markdown`, `VS Code`, `Android Studio`, `GIMP`, `Canva`
 
 </details>
 
