@@ -1,16 +1,80 @@
-## Hi there 👋
+#### Who I am?
 
-<!--
-**ScribeAegis/ScribeAegis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Developer based in **[California](https://en.wikipedia.org/wiki/California), [United States](https://en.wikipedia.org/wiki/United_States)**.
+  
+#### About me?
 
-Here are some ideas to get you started:
+- Exploring web security and diving deeper into front-end frameworks.
+- Bitcoin enthusiast and blockchain technology.
+- Always learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### What I'm doing?
+
+- Writing code in `Python`, `Go`, `JavaScript`
+- Contributing to Open Source. (Mostly my own projects)
+- Active on **[LinkedIn](https://www.linkedin.com/in/jagwire/)**, and **[Facebook](https://www.facebook.com/fbjasong)**.
+- Currently rebuilding **[Portfolio](https://scribeaegis.github.io/)**.
+
+#### What are my skill sets?
+
+- **Backend:**
+
+  - **Programming:** `Python` • `Node.js`
+  - **Framework:** `ReactJS`
+  - **Databases:** `MySQL` • `MongoDB`
+  - **Protocol:** `REST` • `Web Socket`
+
+- **Frontend:**
+
+  - **Programming:** `HTML` • `CSS` • `JavaScript`
+  - **Framework/Library:** `React.js` • `Electron`
+  - **Utils:** `Tailwind` • `Modular CSS`
+  - **Design Tools:** `Canva` • `GIMP`
+
+- **Ecosystem:**
+  - **Operating Systems:** `Windows` • `Linux`
+  - **Containerization:** `GitHub` • `Docker`
+  - **Version Control:** `Git` • `GitHub`
+  - **CI/CD:** `GitHub Actions`
+  - **Project Management:** `Jira` • `GitHub Projects`
+  - **Package Management:** `NPM`
+  - **Cloud Hosting:** `AWS` • `Google Cloud` • `Heroku`
+
+- **Web Development Tools:**
+  - **CMS** `WordPress` • `Squarespace` • `Wix`
+  - **Markup Language:** `Markdown`
+  - **IDE:** `Visual Studio Code`
+
+#### How to reach me?
+
+<a href="https://www.linkedin.com/in/jagwire/">
+  <img align="left" alt="LinkedIn" width="22px" src="./assets/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/fbjasong">
+  <img align="left" alt="Facebook" width="22px" src="./assets/facebook.svg" />
+</a>
+
+<a href="mailto:pub.inbox@proton.me">
+  <img align="left" alt="Mail" width="22px" src="./assets/gmail.svg" />
+</a>
+
+<br/>
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ScribeAegis&theme=default&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScribeAegis&theme=default&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ScribeAegis&theme=default&hide_border=true" alt="GitHub Streak Stats" />
+<div align="center">
+
+![trophy](https://github-profile-trophy.vercel.app/?username=ScribeAegis&row=2&column=3)
+
+</div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ScribeAegis&color=orange)
+
