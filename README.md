@@ -20,7 +20,6 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - Building open-source projects (mostly my own)  
   ![Open Source](https://img.shields.io/badge/Open%20Source-303030?style=flat&logo=github&logoColor=white)
-- Active on [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jagwire) and [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/fbjasong)  
 - Rebuilding my [Portfolio](https://scribeaegis.github.io/)  
 
 ---
