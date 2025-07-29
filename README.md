@@ -2,7 +2,7 @@
 
 ### Who I Am
 
-- Developer based in **[California](https://en.wikipedia.org/wiki/California), [United States](https://en.wikipedia.org/wiki/United_States)**
+- Developer based in **California, USA**
 
 ---
 
@@ -22,7 +22,7 @@
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 - Building open-source projects (mostly my own)  
   ![Open Source](https://img.shields.io/badge/Open%20Source-303030?style=flat&logo=github&logoColor=white)
-- Rebuilding my [Portfolio](https://scribeaegis.github.io/)  
+- Rebuilding my **[Portfolio](https://scribeaegis.github.io/)**
 
 ---
 
