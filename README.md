@@ -10,7 +10,7 @@
 
 - Exploring web security and front-end frameworks
 - Bitcoin & blockchain enthusiast
-- Constant learner
+- Lifelong learner
 
 ---
 
