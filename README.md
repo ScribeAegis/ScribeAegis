@@ -88,4 +88,6 @@
 
   <img src="https://github-profile-trophy.vercel.app/?username=ScribeAegis&row=2&column=3" />
 
+  <img src="https://komarev.com/ghpvc/?username=ScribeAegis&color=orange" />
+
 </div>
