@@ -70,14 +70,6 @@
 
 ---
 
-### How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jagwire/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/fbjasong)
-[![Email](https://img.shields.io/badge/Email-pub.inbox@proton.me-orange?style=flat&logo=gmail)](mailto:pub.inbox@proton.me)
-
----
-
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=ScribeAegis&theme=default&show_icons=true&hide_border=true&count_private=true" />
